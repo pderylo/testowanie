@@ -1,0 +1,4 @@
+
+tzeci: trzy
+
+pierwszy: jeden
